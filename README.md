@@ -50,4 +50,6 @@ Server → Restart in 5 minutes!
 
 🔐 Permissions
 Permission	Description
-vsay.use	Allows usage of the /vsay command
+vsay.use:	Allows usage of the /vsay command
+vsay.reload: Allows use of the /vsayreload command
+
